@@ -1,0 +1,3 @@
+"It is not onerous," says the deviless. "The arrangement was made before the First City fell, before the canals were dug, before I had any rank worth speaking of, when Hell first sought safe passage to the Zee. We arranged the route and made our payment then."
+
+A more intense heat ripples from her. "In London terms, this party has engaged Hell as its firm of solicitors, and I have had the honour to perform that role, for more generations than you have been alive. More generations than I have been alive, for that matter. My client-friend needs us only rarely."

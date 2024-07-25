@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "d23522f3999d2090",
+    "type": "split",
+    "children": [
+      {
+        "id": "47005345a0d241be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a57b8441c557868",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Efficient Commissioner's Ambition.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "720551a2e337fc84",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8ce15da735f0b49a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "49edcd17605ba288",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Ambition",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "fab75ff170449c73",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "71a2587275ab642c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "0cd3dcd9b0bc23b2",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "4abf18f45c693af5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b541ff36b21dec1c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "The Efficient Commissioner's Ambition.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b5f803851f460451",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "The Efficient Commissioner's Ambition.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5ffee0bb26ac3745",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "The Efficient Commissioner's Ambition.md"
+          }
+        }
+      },
+      {
+        "id": "2b8b6bb62e1e5db2",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      },
+      {
+        "id": "fad5494efb03cfa7",
+        "type": "leaf",
+        "state": {
+          "type": "file-properties",
+          "state": {
+            "file": "The Efficient Commissioner's Ambition.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "fit:Fit Sync": false
+    }
+  },
+  "active": "9a57b8441c557868",
+  "lastOpenFiles": [
+    "You did have some business of your own....md",
+    "The Efficient Commissioner's Ambition.md",
+    "Storylets/All a hazelnut.md",
+    "Home.md",
+    "A Meeting Chaired by the Efficient Commissioner (2).md",
+    "Surety and proof.md",
+    "The Nature of the Debt.md",
+    "A Meeting Chaired by the Efficient Commissioner.md",
+    "A difficult investigation.md",
+    "Mapping the earth that lives.md",
+    "Ask what she needs from you.md",
+    "Conflictual.md",
+    "Slight awkwardness.md",
+    "A select committee.md",
+    "storylets/An eager crowd.md",
+    "Storylets/An eager crowd.md",
+    "Items/Vital Intelligence.md",
+    "Items.md",
+    "Slurped Pages/Finally done with Heart’s Game challenges!.md",
+    "Slurped Pages/Reddit - Dive into anything.md",
+    "Locations/London/Bone Market.md",
+    "Slurped Pages/Great Game Grinding (Guide).md",
+    "Items/Romantic Notion.md",
+    "Painting/Incendiary.md",
+    "Painting",
+    "Items/Volume of Collated Research.md",
+    "Locations/London/Amalgamous Insects.md",
+    "Slurped Pages",
+    "Structure/Grinds",
+    "Leviathan Frame",
+    "Location/London",
+    "Location",
+    "Location/London/BoneMarket",
+    "Locations/UpperRiver",
+    "Locations/London",
+    "Locations/Unterzee",
+    "images/icons/Appallingsecret.png",
+    "images/icons/20px-Adoration.png",
+    "images/charts_graphs/Unterzee_map_fancy.png",
+    "20px-Adoration.png",
+    "Items/20px-Adoration.png",
+    "images/icons/Adoration.png",
+    "images/icons/Papers3.png",
+    "images/icons/20px-Papers3.png",
+    "images/icons/Amber_red.png",
+    "images/icons/20px-Amber_red.png"
+  ]
+}

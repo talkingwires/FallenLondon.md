@@ -1,0 +1,1 @@
+"A spirit that came down with the First City," says the Creditor's Solicitor. "Or the double of a spirit that has always lived here." You press her for more, but she shrugs. "It creates the framework for an agreement, and the authority for its enforcement. But it is not itself either law or oath."

@@ -1,0 +1,22 @@
+.data-link-icon[data-link-inlineicon^="https" i]:empty {
+	width: 1.5em;
+	height: 1.5em;
+	display: inline-block;
+	vertical-align: middle;
+	background-image: var(--inlineicon);
+	background-size: cover;
+	border-radius: 100%;
+	margin: -0.5em 0.2em -0.5em 0;
+}
+
+.data-link-icon[data-link-inlineicon^="https" i]:not(:empty)::before {
+	content: '';
+	width: 1.5em;
+	height: 1.5em;
+	display: inline-block;
+	vertical-align: middle;
+	background-image: var(--data-link-inlineicon);
+	background-size: cover;
+	border-radius: 100%;
+	margin: -0.5em 0.2em -0.5em 0;
+}

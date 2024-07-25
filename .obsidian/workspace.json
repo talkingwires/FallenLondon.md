@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "0aa3097287cedb6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "64d9f9e2c1fec953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61d280d1d11e43b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/The Creditor's Own Flesh.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "48b3f257bd9f0a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/Debts repaid.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4b999adb9bc199c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff89b12f4afacba1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82ffa181b28618bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df4f9e8419743e2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a435d705bbe41ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc38afbcca39d111",
+    "type": "split",
+    "children": [
+      {
+        "id": "d91c2e913f211035",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f8db2d98e032b56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Storylets/The Creditor's Own Flesh.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7b3ecea6bfe732b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Storylets/The Creditor's Own Flesh.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92b3ec1caf157c56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94b51aab24a00c52",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "53df960f6e9af4b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Storylets/The Creditor's Own Flesh.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "61d280d1d11e43b0",
+  "lastOpenFiles": [
+    "Storylets/A Dream of Wanting.md",
+    "Storylets/Wild Geese.md",
+    "Storylets/Interrupted.md",
+    "Storylets/Hunted.md",
+    "Storylets/An Opulent Railway Carriage.md",
+    "Storylets/A long journey.md",
+    "Storylets/Debts repaid.md",
+    "Storylets/The Creditor's Own Flesh.md",
+    "Interrupted.md",
+    "Storylets/The Efficient Commissioner's Ambition.md",
+    "A long journey.md",
+    "Wild Geese.md",
+    "Storylets/You did have some business of your own....md",
+    "Storylets/A Meeting Chaired by the Efficient Commissioner (2).md",
+    "Storylets/Surety and proof.md",
+    "Storylets/The Nature of the Debt.md",
+    "Storylets/A Meeting Chaired by the Efficient Commissioner.md",
+    "Storylets/A select committee.md",
+    "An Opulent Railway Carriage.md",
+    "Storylets/Choosing the Venue.md",
+    "Storylets/Misplaced Guilt.md",
+    "Storylets/A colleague with a problem.md",
+    "Home.md",
+    "Hunted.md",
+    "Having Recurring Dreams/the Forests of the Night.md",
+    "Having Recurring Dreams",
+    "A Dream of Wanting.md",
+    "New Text Document.txt",
+    "Structure/Guides"
+  ]
+}

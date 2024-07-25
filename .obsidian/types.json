@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Stories": "multitext",
+    "gain": "multitext",
+    "qualities": "multitext",
+    "script-selling": "number",
+    "coinage-selling": "number",
+    "coinage-buying": "number",
+    "script-buying": "number"
+  }
+}

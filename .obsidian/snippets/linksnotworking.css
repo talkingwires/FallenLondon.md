@@ -1,0 +1,38 @@
+/**
+.data-link-icon[data-link-tag$="Item"  i]::before{
+  [data-link-tags*="#Item" i]{
+    content: "👤 "attr(data-link-inline-icon)
+ **} 
+**/
+
+/**
+[data-link-tags*="#Item" i]{
+  color: #ff2200;
+  content: " yes "
+   background-image: url(data-link-inline-icon);
+}
+**/
+
+/**
+.data-link-icon[data-link-tags$="Item" i]::before{
+    content: " yes "
+    background-image: url(data-link-inline-icon);
+}
+**/
+
+a.internal-link[data-link-tags$="Item" i]::before{
+    content: "👤 ";
+    color: #bb6600;
+}
+
+
+/**  
+:not(:empty)[data-link-inline-icon] {
+   color: white;
+    background-color: rgb(29, 29, 129);
+    border-radius: 18px;
+    padding: 5px 15px;
+    content: " yes "attr(data-link-inline-icon)
+    background-image: url("paper.gif");
+}
+**/

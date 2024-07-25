@@ -1,0 +1,14 @@
+## Delirium Club
+- The next step
+	- [x] [[Watchful]] 120
+	- [x] **A Person of Some Importance**
+	- [x] **Associating with Radical Academics** 3
+	- [x] **Cultivating an Acquaintance with His Amused Lordship** 3
+	- [ ] **Featuring in the Tales of the University** 30
+- **A Sneering Gentleman** at [[Ladybones Road]]
+	- [ ] 1 x Blackmail Material
+	- [ ] 2 x Book of Hidden Bodies
+	- [ ] 5 x Extraordinary Implication
+- **Upstairs at the Bridge Without** at [[Bazaar Side-streets]]
+- Preliminary Research at [[Lodgings]]
+	- [Guide](https://fallenlondon.wiki/wiki/Embarking_on_a_Voyage_of_Scientific_Discovery_(Guide)#Preliminary_Research), gonna need a bunch of [[Volume of Collated Research]]
