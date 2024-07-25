@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storylets/The Creditor's Own Flesh.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storylets/The Creditor's Own Flesh.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storylets/The Creditor's Own Flesh.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storylets/The Creditor's Own Flesh.md"
+                "file": "README.md"
               }
             }
           }
@@ -174,15 +174,15 @@
   },
   "active": "61d280d1d11e43b0",
   "lastOpenFiles": [
+    "Storylets/Debts repaid.md",
     "README.md",
+    "Storylets/The Creditor's Own Flesh.md",
     "Storylets/A Dream of Wanting.md",
     "Storylets/Wild Geese.md",
     "Storylets/Interrupted.md",
     "Storylets/Hunted.md",
     "Storylets/An Opulent Railway Carriage.md",
     "Storylets/A long journey.md",
-    "Storylets/Debts repaid.md",
-    "Storylets/The Creditor's Own Flesh.md",
     "Interrupted.md",
     "Storylets/The Efficient Commissioner's Ambition.md",
     "A long journey.md",

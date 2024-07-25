@@ -1,2 +1,8 @@
 # FallenLondon.md
  An Obsidian Vault for Fallen London
+
+This is the initial commit of a personal project I've been working on, sporadically, over the past year. It's a local knowledgebase created in [Obsidian](https://obsidian.md/) that compiles information about [Failbetter Game's](https://www.failbettergames.com/) long-running web browser text adventure game [*Fallen London*](https://www.fallenlondon.com/). It collects information from the [unofficial wiki](https://fallenlondon.wiki/wiki/Fallen_London_Wiki), the [*Fallen London* subreddit](https://www.reddit.com/r/fallenlondon/), posts from the [official forums](https://community.failbettergames.com/), and other sources from around Internet. It is also my attempt to record the stories found within *Fallen London* in a manner where they can easily be reread, or perused for the esoteric bits of lore contained within the game's ever-growing count of 4+ million words.
+
+This project was intended only for personal use, and as such, parts of it have been lifted wholesale from sources. Many sections are either incomplete, or disorganized as I worked out a system as I went along. My intention by publishing it to GitHub is to clean it up, rewriting and restructuring large portions of it, and to get it ready for public release. I'm only sharing it now because others have expressed an interest in taking a look at it, perhaps seeking inspiration for Obsidian Vaults of their own.
+
+Questions? Comments? I can be reached at [ben.aultowski@proton.me](mailto:ben.aultowski@proton.me).
