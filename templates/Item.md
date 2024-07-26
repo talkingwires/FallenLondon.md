@@ -1,15 +1,16 @@
 ---
 banner: 
-sticker:
-tags: [Item, ] 
+sticker: 
+tags:
+  - Item
 itemrarity: 
-echos-buying: 
+buy-Echos: 
 echos-selling: 
 shilling-buying: 
-shilling-selling: 
+sell-RatShillings: 
 icon-inline: "[[images/icons/40px-]]"
 icon-full: "[[images/icons/]]"
-URL: 
+URL:
 ---
 
 ## Acquisitions

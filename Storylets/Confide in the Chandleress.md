@@ -3,7 +3,7 @@ tags:
   - Storylet
   - Location/London/DeptMenaceEradication
   - Airs/London
-  - Gains/Favour/Docks
+  - gain/Favour/Docks
 inlineicon: https://fallenlondon.wiki/w/images/1/1c/Bohogirl8.png
 url: https://fallenlondon.wiki/wiki/Confide_in_the_Chandleress
 ---

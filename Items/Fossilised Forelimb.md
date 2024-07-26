@@ -8,11 +8,12 @@ aliases:
   - Fossilised Forelimbs
 inlineicon: https://fallenlondon.wiki/w/images/thumb/9/9f/Bone10.png/40px-Bone10.png
 bone:
- [
-  {type: Limb/Arm, value: 27.50, challenge: "[[Monstrous Anatomy]] 11", attributes: "1-2 x [[Antiquity]]"}
-	]
-script-selling: 25
-script-buying: 85
+  - type: Limb/Arm
+    value: 27.5
+    challenge: "[[Monstrous Anatomy]] 11"
+    attributes: 1-2 x [[Antiquity]]
+sell-HinterlandScript: 25
+buy-HinterlandScript: 85
 ---
 
 

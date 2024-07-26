@@ -1,6 +1,6 @@
 ---
 tags:
-  - Location/University
+  - Location/London/University
   - Gain/Connected/Benthic
   - Gain/Connected/Summerset
   - Gain/Item/CrypticClue

@@ -6,9 +6,10 @@
     "Stories": "multitext",
     "gain": "multitext",
     "qualities": "multitext",
-    "script-selling": "number",
-    "coinage-selling": "number",
-    "coinage-buying": "number",
-    "script-buying": "number"
+    "sell-HinterlandScript": "number",
+    "buy-KhanCoinage": "number",
+    "sell-KhanCoinage": "number",
+    "buy-HinterlandScript": "number",
+    "published": "date"
   }
 }

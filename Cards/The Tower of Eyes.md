@@ -3,7 +3,7 @@ tags:
   - MakingWaves
   - Scheme
   - Card
-  - Location/Lodgings
+  - Location/London/Lodgings
   - Airs/London
 aliases:
   - Salon

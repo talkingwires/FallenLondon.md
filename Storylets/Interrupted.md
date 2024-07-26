@@ -3,7 +3,7 @@ tags:
   - Character/Masters/MrPages
   - Character/Masters/MrIron
   - Character/Masters/MrSpices
-  - Character/Masters/EfficientCommissioner
+  - Character/EfficientCommissioner
   - Location/London/MolochStreet
   - Concept/Seven
 qualties:

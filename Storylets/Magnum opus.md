@@ -1,6 +1,6 @@
 ---
 tags:
-  - Location/London/Profession
+  - Location/London/ProfessionalActivities
   - Concept/Correspondence
   - Concept/Stars
   - Storylet

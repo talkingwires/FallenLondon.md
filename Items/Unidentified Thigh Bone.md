@@ -6,11 +6,11 @@ url: https://fallenlondon.wiki/wiki/Unidentified_Thigh_Bone
 aliases:
   - Unidentified Thigh Bones
 echos-selling: 
-script-selling: 1
+sell-HinterlandScript: 1
 inlineicon: https://fallenlondon.wiki/w/images/thumb/8/8b/Bone12.png/40px-Bone12.png
-bone: [
-  {type: Limb/Leg, value: 1.00}
-	]
+bone:
+  - type: Limb/Leg
+    value: 1
 ---
 
 

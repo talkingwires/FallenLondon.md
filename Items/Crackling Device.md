@@ -2,8 +2,8 @@
 tags:
   - Item/Curiosity
 echos-selling: 62.5
-coinage-selling: 125
-coinage-buying: 130
+sell-KhanCoinage: 125
+buy-KhanCoinage: 130
 url: https://fallenlondon.wiki/wiki/Crackling_Device
 inlineicon: https://fallenlondon.wiki/w/images/thumb/8/86/Enginegreen.png/40px-Enginegreen.png
 ---

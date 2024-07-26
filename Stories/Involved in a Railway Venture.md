@@ -1,8 +1,8 @@
 ---
 tags:
-  - Quality
+  - Structure/Quality
 qualities: [
-  {name: "[[Involved in a Railway Venture]]", type: "Stories", discrete: true, unlock: "[[Advertisements of a New Venture]]", icon: "", description: "While Lord Mayor, Virginia made it possible to build west. London is taking advantage!"}
+  {name: "[[Involved in a Railway Venture]]", type: "Stories", discrete: true, unlock: "[[Advertisements of a New Venture]]", icon: "", description: "You've become a shareholder and director of the Great Hellbound Railway company"}
 ]
 ---
 Here's our test!

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Location/Lodgings 
+  - Location/London/Lodgings 
   - Storylet
   - Character/Masters/MrPages
 qualities:

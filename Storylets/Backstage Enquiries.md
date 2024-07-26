@@ -1,10 +1,9 @@
 ---
 tags:
   - Stories
-story:  Stripes of Wrath
 location: Mahogany Hall
 qualities:
-
+  - "[[Stripes of Wrath]]"
 ---
 
 The current booker at Mahogany Hall, although not a Clay Man, has skin with a slight granitic hue. The Urchin Detective stares at his chiselled cheekbones.

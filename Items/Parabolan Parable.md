@@ -2,7 +2,7 @@
 tags:
   - Item/Cartography
 echos-selling: 312.5
-shilling-selling: "4000"
+sell-RatShillings: "4000"
 URL: https://fallenlondon.wiki/wiki/Parabolan_Parable
 inlineicon: https://fallenlondon.wiki/w/images/thumb/8/87/Rosepetals.png/40px-Rosepetals.png
 ---

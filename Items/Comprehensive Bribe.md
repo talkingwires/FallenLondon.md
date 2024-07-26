@@ -1,10 +1,10 @@
 ---
 tags:
   - Item/Contraband
-echos-buying: 
+buy-Echos: 
 echos-selling: 12.5
 shilling-buying: 
-shilling-selling: 
+sell-RatShillings: 
 inlineicon: https://fallenlondon.wiki/w/images/thumb/3/3f/Papers3.png/40px-Papers3.png
 URL: https://fallenlondon.wiki/wiki/Comprehensive_Bribe
 ---

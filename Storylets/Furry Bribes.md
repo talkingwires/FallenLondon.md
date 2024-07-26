@@ -1,9 +1,9 @@
 ---
 tags:
   - Stories
-story: Stripes of Wrath
 location: Mahogany Hall
 qualities:
+  - "[[Stripes of Wrath]]"
 ---
 "Don't worry, Silverer," the Urchin Detective says, and taps her nose. "I know this lot. You hang back so you don't spook nobody."
 

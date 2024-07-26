@@ -7,12 +7,14 @@ url: https://fallenlondon.wiki/wiki/Femur_of_a_Jurassic_Beast
 aliases:
   - Jurassic Femur
   - Jurassic Femurs
-echos-selling:
-script-selling: 2
+echos-selling: 
+sell-HinterlandScript: 2
 inlineicon: https://fallenlondon.wiki/w/images/thumb/8/8b/Bone12.png/40px-Bone12.png
-bone: [
-  {type: Limb/Leg, value: 3.00, challenge: "[[Mithridacy]] 1", attributes: "1 x [[Antiquity]], 0-2 Implausibility"}
-	]
+bone:
+  - type: Limb/Leg
+    value: 3
+    challenge: "[[Mithridacy]] 1"
+    attributes: 1 x [[Antiquity]], 0-2 Implausibility
 ---
 
 

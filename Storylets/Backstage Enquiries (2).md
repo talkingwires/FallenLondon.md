@@ -1,9 +1,9 @@
 ---
 tags:
   - Stories
-story:  Stripes of Wrath
 location: Mahogany Hall
 qualities:
+  - "[[Stripes of Wrath]]"
 ---
 Madam Mazurka's room is deep in the bowels of Mahogany Hall. The door is open. Although she reclines nonchalantly, draped in gauzy scarves and arcane symbols, her eyes are uncommonly sharp. "I knew you would come," she says.
 

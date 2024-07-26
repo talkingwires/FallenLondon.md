@@ -1,10 +1,10 @@
 ---
 tags:
   - Item/Mysteries
-echos-buying: 
+buy-Echos: 
 echos-selling: 0.15
 shilling-buying: 2
-shilling-selling: 
+sell-RatShillings: 
 inlineicon: https://fallenlondon.wiki/w/images/thumb/f/f5/Appallingsecret.png/20px-Appallingsecret.png
 URL: https://fallenlondon.wiki/wiki/Appalling_Secret
 ---

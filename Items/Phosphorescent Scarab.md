@@ -1,7 +1,7 @@
 ---
 tags:
   - Item/Luminosity
-echos-buying: 0.25
+buy-Echos: 0.25
 echos-selling: 0.1
 shilling-buying: 1
 inlineicon: https://fallenlondon.wiki/w/images/thumb/6/60/Beetle.png/40px-Beetle.png

@@ -7,13 +7,16 @@ inlineicon: https://fallenlondon.wiki/w/images/thumb/b/bd/Seamonster2.png/40px-S
 aliases:
   - Stygian Ivory
 echos-selling: 2.5
-coinage-selling: 5
-coinage-buying: 10
-script-selling: 5
+sell-KhanCoinage: 5
+buy-KhanCoinage: 10
+sell-HinterlandScript: 5
 shilling-buying: 45
-bone: [
-  {type: Skull, value: 2.50, challenge: "[[Mithridacy]] 6", attributes: "0-2 x [[Implausibility]]", note: "Reduces Skulls Needed, but does not add a skull. Challenge by 1 per skull."}
-	]
+bone:
+  - type: Skull
+    value: 2.5
+    challenge: "[[Mithridacy]] 6"
+    attributes: 0-2 x [[Implausibility]]
+    note: Reduces Skulls Needed, but does not add a skull. Challenge by 1 per skull.
 ---
 
 
