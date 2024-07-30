@@ -1,19 +1,38 @@
 ---
 tags:
-  - Character/Masters/MrPages
-  - Character/Masters/MrIron
-  - Character/Masters/MrSpices
-  - Character/EfficientCommissioner
-  - Location/London/MolochStreet
-  - Character/TheCreditor
-  - Character/Bazaar
-qualties:
-  - "[[Involved in a Railway Venture]]"
-  - "[[The Efficient Commissioner's Tale]]"
-image: https://images.fallenlondon.com/icons/currency2_gold.png
+  - Storylet
+  - Location/
+  - Character/
+image: https://images.fallenlondon.com/icons/papers3.png
+qualities:
+  - name: "[[The Efficient Commissioner's Tale]]"
+    level: 40
+    type: Stories
+    discrete: true
+    unlock: "[[The Efficient Commissioner's Tale]] 40"
+    icon: https://fallenlondon.wiki/w/images/f/f3/Book.png
+    description: The Efficient Commissioner has interrupted the other work of the GHR
+story: "[[The Efficient Commissioner's Tale]]"
 ---
-Mr Wines' servant Jervaise crowds into the boardroom. He is carrying a heavy square package tied with string. Postage has been paid, and it is addressed to the Bazaar 'care of Penstock's Land Agency'.
+The chunk of stone sits on the table before you. Everyone has cleared to give you as much space as they're able, considering the size of the room. This is still quite limited.
 
-"We don't have long," says Jervaise. "The Bazaar knows something has been sent to her. She won't like it being delayed, so the next hour or so would be the time for tampering, if you take my meaning."
+The boardroom, you note, manages to accommodate however many people crowd into it, but always tightly enough that everyone is jostling a neighbour with their elbows. Truly Infernal design.
 
-The Efficient Commissioner nods. Jervaise sets the package on the board room table – it gives a heavy thud as it lands, like marble. The Commissioner briskly cuts the twine and unwraps a block of rough-cut stone the colour of the moon.
+> [!choice] [[Not poisonous|Study its likely chemical effects on the Bazaar]]
+> If the Bazaar were to consume this message, what would happen?
+
+> [!choice] [[Without equipment Here|Discover its age and its kinship to stars]]
+> What has the Red Science to say about it?
+
+> [!choice] [[The Creditor's calling card|Search it for letters of fire]]
+> Is it inscribed?
+
+> [!onward] [[Posted from the Brass Embassy|Repackage this item and send it on to the Bazaar]]
+> Jervaise is waiting. The Bazaar will know it is on its way.
+
+
+```dataview
+TABLE WITHOUT ID qualities.name as "Quality", qualities.level as "Level", qualities.description as "Description" 
+WHERE contains(file.frontmatter.qualities.name, this.file.name) or file.name = this.file.name 
+FLATTEN qualities
+```

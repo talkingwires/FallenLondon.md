@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "64d9f9e2c1fec953",
+        "id": "7b23b727f039f2b6",
         "type": "tabs",
         "children": [
           {
-            "id": "61d280d1d11e43b0",
+            "id": "e6ebf2f6cbfac606",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/Involved in a Railway Venture.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "48b3f257bd9f0a12",
+            "id": "9ff87c45d809897a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storylets/Debts repaid.md",
-                "mode": "source",
+                "file": "A visit.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"story\"]",
+                "query": "#Location/London/MolochStreet :Location/ ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stories/Involved in a Railway Venture.md",
+                "file": "A visit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stories/Involved in a Railway Venture.md",
+                "file": "A visit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stories/Involved in a Railway Venture.md"
+                "file": "A visit.md"
               }
             }
           },
@@ -159,16 +160,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Stories/Involved in a Railway Venture.md"
+                "file": "A visit.md"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 271.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,15 +180,26 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes...": true,
       "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "61d280d1d11e43b0",
+  "active": "9ff87c45d809897a",
   "lastOpenFiles": [
+    "Home.md",
+    "A visit.md",
+    "Posted from the Brass Embassy.md",
+    "templates/Storylet.md",
+    "Not poisonous.md",
+    "Storylets/The Creditor's Own Flesh.md",
+    "The Creditor's calling card.md",
+    "Without equipment Here.md",
+    "Untitled.md",
+    "Storylets/A frenzy of signing, and an introduction.md",
+    "Stories/Involved in a Railway Venture.md",
     "Stories/Associating with Radical Academics.md",
     "Stories/Virginia at the Fruits of the Zee.md",
     "Stories/Pursuing the Totentanz.md",
-    "Stories/Involved in a Railway Venture.md",
     "Qualties/Stripes of Wrath.md",
     "Storylets/Secret battles.md",
     "Storylets/Scant fortune.md",
@@ -198,18 +210,8 @@
     "Storylets/A wizard of the senses.md",
     "Storylets/The machinery of Spiritualism.md",
     "Locations/London/Bone Market.md",
-    "Home.md",
     "README.md",
     "Items/Phosphorescent Scarab.md",
-    "Storylets/Debts repaid.md",
-    "Storylets/The Creditor's Own Flesh.md",
-    "Storylets/A Dream of Wanting.md",
-    "Storylets/Wild Geese.md",
-    "Storylets/Interrupted.md",
-    "Storylets/Hunted.md",
-    "Storylets/An Opulent Railway Carriage.md",
-    "Storylets/A long journey.md",
-    "Interrupted.md",
     "Having Recurring Dreams",
     "New Text Document.txt",
     "Structure/Guides"

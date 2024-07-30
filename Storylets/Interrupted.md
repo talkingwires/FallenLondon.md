@@ -23,4 +23,4 @@ The neddy men look at the Efficient Commissioner, confused. "That will be Jervai
 
 "Open the door," says the Commissioner.
 
-> [!onwards] [[The Creditor's Own Flesh|Onwards]]
+> [!onwards] [[Storylets/The Creditor's Own Flesh|Onwards]]
