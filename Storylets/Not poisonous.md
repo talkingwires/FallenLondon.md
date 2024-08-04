@@ -13,7 +13,8 @@ qualities:
     unlock: "[[The Efficient Commissioner's Tale]] 40"
     icon: https://fallenlondon.wiki/w/images/f/f3/Book.png
     description: The Efficient Commissioner has interrupted the other work of the GHR
-story: "[[The Efficient Commissioner's Tale]]"
+story:
+  - "[[The Efficient Commissioner's Tale]]"
 ---
 
 There are only so many tests you can perform here, with no reagents. But you can try a few things. The block does not react to honey, or wine, or to the dregs of the tea served to the boardroom an hour ago.

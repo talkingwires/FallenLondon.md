@@ -4,35 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "7b23b727f039f2b6",
+        "id": "b147b8db2823aca7",
         "type": "tabs",
         "children": [
           {
-            "id": "e6ebf2f6cbfac606",
+            "id": "7baaa120881b655a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Stories/The Efficient Commissioner's Tale.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a4ba807bc6903612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/Not poisonous.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e34ed4e28e59bc5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/The demand for monstrosity.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "9ff87c45d809897a",
+            "id": "99f2fb3095e07373",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A visit.md",
+                "file": "Stories/Virginia at the Fruits of the Zee.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#Location/London/MolochStreet :Location/ ",
+                "query": "[\"stories\"]",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A visit.md",
+                "file": "Storylets/The demand for monstrosity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A visit.md",
+                "file": "Storylets/The demand for monstrosity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A visit.md"
+                "file": "Storylets/The demand for monstrosity.md"
               }
             }
           },
@@ -160,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "A visit.md"
+                "file": "Storylets/The demand for monstrosity.md"
               }
             }
           }
@@ -184,34 +208,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ff87c45d809897a",
+  "active": "82ffa181b28618bf",
   "lastOpenFiles": [
-    "Home.md",
-    "A visit.md",
-    "Posted from the Brass Embassy.md",
-    "templates/Storylet.md",
-    "Not poisonous.md",
-    "Storylets/The Creditor's Own Flesh.md",
-    "The Creditor's calling card.md",
-    "Without equipment Here.md",
-    "Untitled.md",
-    "Storylets/A frenzy of signing, and an introduction.md",
-    "Stories/Involved in a Railway Venture.md",
-    "Stories/Associating with Radical Academics.md",
+    "Stories/The Efficient Commissioner's Tale.md",
     "Stories/Virginia at the Fruits of the Zee.md",
-    "Stories/Pursuing the Totentanz.md",
+    "Stories.md",
+    "Storylets/Not poisonous.md",
+    "Storylets/The demand for monstrosity.md",
+    "Storylets/The Mayoral Pomp of Virginia (2).md",
     "Qualties/Stripes of Wrath.md",
-    "Storylets/Secret battles.md",
-    "Storylets/Scant fortune.md",
-    "Storylets/Off the books.md",
-    "Storylets/Furry Bribes.md",
-    "Storylets/Backstage Enquiries (2).md",
-    "Storylets/Backstage Enquiries.md",
-    "Storylets/A wizard of the senses.md",
-    "Storylets/The machinery of Spiritualism.md",
-    "Locations/London/Bone Market.md",
-    "README.md",
-    "Items/Phosphorescent Scarab.md",
+    "Stories/Virginia at the Fruits of the Zee.md",
+    "Storylets/The Sibylline Sybarite.md",
+    "Storylets/The property of mayors past.md",
+    "Storylets/An easy diversion.md",
+    "Storylets/Amongst the Lettuce.md",
+    "Storylets/Poking the tiger.md",
+    "Storylets/Wildfire.md",
+    "Storylets/A colleague with a problem.md",
+    "Storylets/Tribute repaid in kind.md",
+    "Home.md",
+    "Storylets/A Tournament on the Horizon.md",
+    "Storylets/Start the presses.md",
+    "Storylets/The Sixth, and Five Before (2).md",
+    "Storylets/Labyrinthine.md",
+    "Storylets/The Sixth, and Five Before.md",
+    "Storylets/A grand prize.md",
+    "Storylets/Stripes in the Bandstand (2).md",
+    "Storylets/Stripes in the Bandstand.md",
+    "Storylets/An absence of narcotics.md",
     "Having Recurring Dreams",
     "New Text Document.txt",
     "Structure/Guides"

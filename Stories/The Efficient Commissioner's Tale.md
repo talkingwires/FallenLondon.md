@@ -3,7 +3,7 @@ tags:
   - Quality
 image: 
 qualities: [
-  {name: "[[Virginia at the Fruits of the Zee]]", level: , type: "Stories", discrete: true, unlock: "", icon: "", description: ""}
+  {name: "[[The Efficient Commissioner's Tale]]", level: , type: "Stories", discrete: true, unlock: "", icon: "", description: ""}
 ]
 story: ""
 ---

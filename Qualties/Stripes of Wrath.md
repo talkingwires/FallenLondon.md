@@ -2,6 +2,8 @@
 tags:
   - ExceptionalStories
 published: 2023-11
+story:
+  - "[[Stripes of Wrath]]"
 ---
 
 The Detective taps her temple. "Allow me to present my prudentials. The Case of the Missing Muffins. The Lizard of Lacewhisper Street. The Mysterious Weasel Thief Who Definitely Weren't Arnold Even Though The Missing Weasels Showed Up Inside His Hat. That were all me. I mean, it were me that solved 'em. Not me that done 'em."  

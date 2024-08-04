@@ -10,6 +10,7 @@
     "buy-KhanCoinage": "number",
     "sell-KhanCoinage": "number",
     "buy-HinterlandScript": "number",
-    "published": "date"
+    "published": "date",
+    "story": "multitext"
   }
 }
