@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storylets/The demand for monstrosity.md",
+                "file": "Location/Helicon House.md",
                 "mode": "preview",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storylets/The demand for monstrosity.md",
+                "file": "Location/Helicon House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storylets/The demand for monstrosity.md",
+                "file": "Location/Helicon House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storylets/The demand for monstrosity.md"
+                "file": "Location/Helicon House.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Storylets/The demand for monstrosity.md"
+                "file": "Location/Helicon House.md"
               }
             }
           }
@@ -210,6 +210,13 @@
   },
   "active": "82ffa181b28618bf",
   "lastOpenFiles": [
+    "Location/Unterzee/Mangrove College.md",
+    "Location/London/BoneMarket/Amalgamous Amphibians.md",
+    "Locations/London/Base-Camp.md",
+    "Location/London/BoneMarket/Menacing Amphibians.md",
+    "Location/London/BoneMarket/Antique Birds.md",
+    "Location/London/BoneMarket/Bessemer Grinding.md",
+    "Storylets/The demand for monstrosity.md",
     "Social/T4T3R_GR3NAD3R.md",
     "Social/Yinsie.md",
     "Social/Stabin Daback.md",
@@ -224,19 +231,12 @@
     "Stories/Virginia at the Fruits of the Zee.md",
     "Stories.md",
     "Storylets/Not poisonous.md",
-    "Storylets/The demand for monstrosity.md",
     "Storylets/The Mayoral Pomp of Virginia (2).md",
     "Qualties/Stripes of Wrath.md",
     "Stories/Virginia at the Fruits of the Zee.md",
     "Storylets/The Sibylline Sybarite.md",
     "Storylets/The property of mayors past.md",
     "Storylets/An easy diversion.md",
-    "Storylets/Amongst the Lettuce.md",
-    "Storylets/Poking the tiger.md",
-    "Storylets/Wildfire.md",
-    "Storylets/A colleague with a problem.md",
-    "Storylets/Tribute repaid in kind.md",
-    "Home.md",
     "Having Recurring Dreams",
     "New Text Document.txt",
     "Structure/Guides"
