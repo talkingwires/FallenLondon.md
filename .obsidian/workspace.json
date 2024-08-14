@@ -4,53 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "b147b8db2823aca7",
+        "id": "4d6731b8818a18b0",
         "type": "tabs",
         "children": [
           {
-            "id": "7baaa120881b655a",
+            "id": "11d260d5b33d2fef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/The Efficient Commissioner's Tale.md",
+                "file": "Storylets/Low stakes.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "a4ba807bc6903612",
+            "id": "7564793e8c3c215a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storylets/Not poisonous.md",
+                "file": "Storylets/A course set.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "e34ed4e28e59bc5e",
+            "id": "5eae6fd91854f639",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Location/Helicon House.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "99f2fb3095e07373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/Virginia at the Fruits of the Zee.md",
-                "mode": "preview",
+                "file": "Storylets/An unknown danger.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"stories\"]",
+                "query": "[\"cssclass\"]",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 305.5
   },
   "right": {
     "id": "cc38afbcca39d111",
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Location/Helicon House.md",
+                "file": "Storylets/An unknown danger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Location/Helicon House.md",
+                "file": "Storylets/An unknown danger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": ""
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Location/Helicon House.md"
+                "file": "Storylets/An unknown danger.md"
               }
             }
           },
@@ -184,12 +172,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Location/Helicon House.md"
+                "file": "Storylets/An unknown danger.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -210,33 +198,38 @@
   },
   "active": "82ffa181b28618bf",
   "lastOpenFiles": [
-    "Location/Unterzee/Mangrove College.md",
-    "Location/London/BoneMarket/Amalgamous Amphibians.md",
-    "Locations/London/Base-Camp.md",
-    "Location/London/BoneMarket/Menacing Amphibians.md",
-    "Location/London/BoneMarket/Antique Birds.md",
-    "Location/London/BoneMarket/Bessemer Grinding.md",
-    "Storylets/The demand for monstrosity.md",
-    "Social/T4T3R_GR3NAD3R.md",
-    "Social/Yinsie.md",
-    "Social/Stabin Daback.md",
-    "Social/Neim.md",
-    "Social/Sizzle Montyjing.md",
-    "Social/Missives.md",
-    "Social/Honeyglass.md",
-    "Social/dark traveller.md",
-    "Social/Beaumains.md",
+    "Storylets/What passes for high praise.md",
+    "Storylets/A course set.md",
+    "Storylets/A Way Forward (2).md",
+    "Storylets/Breaking chains.md",
+    "Storylets/Lost in strange lands.md",
+    "Storylets/A Way Forward.md",
+    "Storylets/Unease and Humbled Pleas.md",
+    "Storylets/Unforgotten.md",
+    "Storylets/An unknown danger.md",
+    "Storylets/Striped Shames (3).md",
+    "Storylets/Signs of life.md",
+    "Storylets/Striped Shames (2).md",
+    "Storylets/The greatest of treacheries.md",
+    "Storylets/Striped Shames.md",
+    "Storylets/'DECEIT UPON DECEIT'.md",
+    "Storylets/A Scoop for the Ages (2).md",
+    "Storylets/'RESPLENDENT, WAKEFUL LIES'.md",
+    "Storylets/A Scoop for the Ages.md",
+    "Storylets/Low stakes.md",
+    "Storylets/A Nose for a Story.md",
+    "Storylets/Scepticism.md",
+    "Storylets/New beginnings.md",
+    "README.md",
+    "Cards/A Dream of Thresholds.md",
+    "Storylets/Zugzwang.md",
+    "Storylets/Conflict.md",
+    "Faction/Favours",
+    "Faction",
+    "Favours",
+    "Factions/Favours",
+    "Factions/Connected",
     "Social",
-    "Stories/The Efficient Commissioner's Tale.md",
-    "Stories/Virginia at the Fruits of the Zee.md",
-    "Stories.md",
-    "Storylets/Not poisonous.md",
-    "Storylets/The Mayoral Pomp of Virginia (2).md",
-    "Qualties/Stripes of Wrath.md",
-    "Stories/Virginia at the Fruits of the Zee.md",
-    "Storylets/The Sibylline Sybarite.md",
-    "Storylets/The property of mayors past.md",
-    "Storylets/An easy diversion.md",
     "Having Recurring Dreams",
     "New Text Document.txt",
     "Structure/Guides"

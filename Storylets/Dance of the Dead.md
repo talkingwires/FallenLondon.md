@@ -8,6 +8,7 @@ image: https://images.fallenlondon.com/icons/dance.png
 qualities: [
   {name: "[[Pursuing the Totentanz]]", level: 3, type: "Stories", discrete: true, icon: "https://images.fallenlondon.com/icons/dancetcsmall.png", description: "A mysterious dance desired by Mr Wines."}
 ]
+stories: "[[Pursuing the Totentanz]]"
 ---
 "It is just what you people call it in this age. A dance performed in moonlight. The moonlight causes a vision of the Surface, the world without the Neath. The Totentanz makes it real. Enough to kill, at least." Mr Wines is being exceedingly forthcoming.
 

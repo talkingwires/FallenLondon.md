@@ -6,11 +6,11 @@ tags:
   - Menace/Wounds/Lose
   - Menace/Nightmares/Lose
   - Menace/Suspicion/Lose
-gains:
+gain:
   - "[[Making Waves]]"
-  - "[[Favours - Church]]"
-  - "[[Favours - Bohemians]]"
-  - "[[Favours - Constables]]"
+  - "[[Factions/Favours/Church]]"
+  - "[[Favours/Bohemians]]"
+  - "[[Favours/Constables]]"
 lose:
   - "[[Nightmares]]"
   - "[[Scandal]]"

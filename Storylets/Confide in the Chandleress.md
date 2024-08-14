@@ -10,5 +10,5 @@ url: https://fallenlondon.wiki/wiki/Confide_in_the_Chandleress
 - Location: [[Department of Menace Eradication]] » Follow a chandler to her workshop
 - Unlock: [[The Airs of London|The Airs of London 96-100]] %%((AirsNeeded :: 96, 97, 98, 99, 100))%%
 - Challenge: None 
-		Gain [[Favours - Docks|1 x Favours - Docks]]
+		Gain [[Docks|1 x Favours - Docks]]
 - Three Actions, [[Dangerous|Dangerous -5 CP]]
