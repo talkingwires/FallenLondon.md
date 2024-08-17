@@ -4,47 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "4d6731b8818a18b0",
+        "id": "c02e5cc42aa7b8ab",
         "type": "tabs",
         "children": [
           {
-            "id": "11d260d5b33d2fef",
+            "id": "23a7242a809e84e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storylets/Low stakes.md",
+                "file": "Location/London/BoneMarket/Bone Market.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "7564793e8c3c215a",
+            "id": "5b921dc58b317d63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storylets/A course set.md",
+                "file": "Written by the victors.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "5eae6fd91854f639",
+            "id": "02ac7e63116eb5cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storylets/An unknown danger.md",
+                "file": "'Simple' is a relative term.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"cssclass\"]",
+                "query": "Nevercold Brass Silver",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 307.5
   },
   "right": {
     "id": "cc38afbcca39d111",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storylets/An unknown danger.md",
+                "file": "Written by the victors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storylets/An unknown danger.md",
+                "file": "Written by the victors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storylets/An unknown danger.md"
+                "file": "Written by the victors.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Storylets/An unknown danger.md"
+                "file": "Written by the victors.md"
               }
             }
           }
@@ -196,42 +196,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82ffa181b28618bf",
+  "active": "5b921dc58b317d63",
   "lastOpenFiles": [
-    "Storylets/What passes for high praise.md",
+    "'Simple' is a relative term.md",
+    "Written by the victors.md",
+    "The Plan of Action.md",
     "Storylets/A course set.md",
-    "Storylets/A Way Forward (2).md",
-    "Storylets/Breaking chains.md",
-    "Storylets/Lost in strange lands.md",
-    "Storylets/A Way Forward.md",
-    "Storylets/Unease and Humbled Pleas.md",
-    "Storylets/Unforgotten.md",
-    "Storylets/An unknown danger.md",
-    "Storylets/Striped Shames (3).md",
-    "Storylets/Signs of life.md",
-    "Storylets/Striped Shames (2).md",
-    "Storylets/The greatest of treacheries.md",
-    "Storylets/Striped Shames.md",
-    "Storylets/'DECEIT UPON DECEIT'.md",
-    "Storylets/A Scoop for the Ages (2).md",
-    "Storylets/'RESPLENDENT, WAKEFUL LIES'.md",
-    "Storylets/A Scoop for the Ages.md",
-    "Storylets/Low stakes.md",
+    "Stories/Of Stripes, and Coils.md",
+    "Stories/Pursuing the Totentanz.md",
+    "Breaking a Gaol.md",
+    "Storylets/A long arrangement.md",
+    "Storylets/A Reckoning Postponed.md",
     "Storylets/A Nose for a Story.md",
-    "Storylets/Scepticism.md",
-    "Storylets/New beginnings.md",
-    "README.md",
-    "Cards/A Dream of Thresholds.md",
-    "Storylets/Zugzwang.md",
-    "Storylets/Conflict.md",
+    "Stories/Arcana.md",
+    "Stories/Involved in a Railway Venture.md",
+    "Location/London/BoneMarket/Bone Market.md",
+    "templates/Item.md",
+    "Location/London/BoneMarket/Working.md",
+    "Items/Thorned Ribcage.md",
+    "Items/Correspondence Plaque.md",
+    "Factions/Criminals/Favours.md",
+    "Structure/Guides/The Airs of London.md",
+    "Factions/Criminals",
+    "Items/Extraordinary Implication.md",
+    "Items/Corrective Historical Narrative.md",
+    "Items/Nevercold Brass Silver.md",
+    "Items/Nevercold Brass Sliver.md",
+    "Items/Fin Bones, Collected.md",
+    "Items/Bat Wing.md",
+    "Items/Bottle of Greyfields 1879.md",
+    "Factions/Church",
+    "Factions/GreatGame",
+    "Factions/Bohemians",
+    "desktop.ini",
     "Faction/Favours",
     "Faction",
     "Favours",
     "Factions/Favours",
-    "Factions/Connected",
-    "Social",
-    "Having Recurring Dreams",
-    "New Text Document.txt",
-    "Structure/Guides"
+    "Factions/Connected"
   ]
 }

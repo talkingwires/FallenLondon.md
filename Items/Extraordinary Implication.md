@@ -18,7 +18,7 @@ URL: https://fallenlondon.wiki/wiki/Extraordinary_Implication
 
 | Requires                   	| [Connected - Benthic 6](Connected%20-%20Benthic)                                       	|
 |----------------------------	|---------------------------------------------------------------------------	|
-| Success                    	| [[Nevercold Brass Silver\|Nevercold Brass Silver x 200]]<br><br>[[Making Waves]] 2-30 CP<br><br>[[Connected - Benthic]] -20 CP  	|
+| Success                    	| [[Nevercold Brass Sliver\|Nevercold Brass Sliver x 200]]<br><br>[[Making Waves]] 2-30 CP<br><br>[[Connected - Benthic]] -20 CP  	|
 | Rare Success              	| [[Nodule of Pulsating Amber\|Nodule of Pulsating Amber x 1]]<br><br>[[Making Waves]] 1-42 CP<br><br>[[Connected - Benthic]] -20 CP 	|
 
 

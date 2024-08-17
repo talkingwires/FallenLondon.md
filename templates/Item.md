@@ -1,13 +1,8 @@
 ---
-banner: 
-sticker: 
 tags:
   - Item
 itemrarity: 
-buy-Echos: 
-echos-selling: 
-shilling-buying: 
-sell-RatShillings: 
+
 icon-inline: "[[images/icons/40px-]]"
 icon-full: "[[images/icons/]]"
 URL:
