@@ -20,3 +20,5 @@ The Weeping Mercenary salutes. "You need a fighter to keep the Tributes safe. Wh
 The Bohemian Sculptress claps her hands together. "Isn't it delightful, all of us working together like this? Of course I'm coming. I won the right fair and square, and I do so need a new source of inspiration."
 
 The Striped Officiant pads over to stand at your side. "I would like them to be better protected. I would insist on sending our best warriors, but we are already in a quagmire, diplomatically speaking." A wry shrug. "There is also the fact that we have _already_ sent our best warriors in, and most of them did not come out." He pauses. Everybody is looking at you. "But you did. And your contributions have been invaluable. If you were one of us, you would be considered Stained, now." There is both admiration and something like disgust in his tone.
+
+[[Rounding Out the Team|Onwards]]

@@ -25,26 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Written by the victors.md",
+                "file": "Storylets/Thresholds and passages.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "02ac7e63116eb5cf",
+            "id": "4ca91b515a3489a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "'Simple' is a relative term.md",
+                "file": "Storylets/Thresholds and passages.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "95a604ff8fc3eeab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/To return home, changed.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Written by the victors.md",
+                "file": "Storylets/To return home, changed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Written by the victors.md",
+                "file": "Storylets/To return home, changed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Written by the victors.md"
+                "file": "Storylets/To return home, changed.md"
               }
             }
           },
@@ -172,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Written by the victors.md"
+                "file": "Storylets/To return home, changed.md"
               }
             }
           }
@@ -196,15 +208,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b921dc58b317d63",
+  "active": "82ffa181b28618bf",
   "lastOpenFiles": [
-    "'Simple' is a relative term.md",
-    "Written by the victors.md",
-    "The Plan of Action.md",
+    "Storylets/Thresholds and passages.md",
+    "Storylets/To return home, changed.md",
+    "Storylets/The Plan of Action.md",
+    "Storylets/'Simple' is a relative term.md",
+    "Storylets/Entering the Sixth Coil.md",
+    "Storylets/Written by the victors.md",
+    "Storylets/Rounding Out the Team.md",
+    "Storylets/Last, but not least.md",
+    "Storylets/A refusal of the call.md",
     "Storylets/A course set.md",
     "Stories/Of Stripes, and Coils.md",
     "Stories/Pursuing the Totentanz.md",
-    "Breaking a Gaol.md",
+    "Storylets/Breaking a Gaol.md",
     "Storylets/A long arrangement.md",
     "Storylets/A Reckoning Postponed.md",
     "Storylets/A Nose for a Story.md",
@@ -219,12 +237,6 @@
     "Structure/Guides/The Airs of London.md",
     "Factions/Criminals",
     "Items/Extraordinary Implication.md",
-    "Items/Corrective Historical Narrative.md",
-    "Items/Nevercold Brass Silver.md",
-    "Items/Nevercold Brass Sliver.md",
-    "Items/Fin Bones, Collected.md",
-    "Items/Bat Wing.md",
-    "Items/Bottle of Greyfields 1879.md",
     "Factions/Church",
     "Factions/GreatGame",
     "Factions/Bohemians",
