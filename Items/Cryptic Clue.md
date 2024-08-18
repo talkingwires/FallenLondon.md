@@ -6,18 +6,11 @@ echos-selling:
 shilling-buying: 
 sell-RatShillings: 
 inlineicon: https://fallenlondon.wiki/w/images/thumb/f/fc/Crypticsecret.png/40px-Crypticsecret.png
-URL: ---
+URL: https://fallenlondon.wiki/wiki/Cryptic_Clue
 banner: 
 sticker: 
-tags:
-  - Item
 itemrarity: 
-buy-Echos: 
-echos-selling: 
-shilling-buying: 
-sell-RatShillings: 
-image: 
-URL: https://fallenlondon.wiki/wiki/Cryptic_Clue
+image:
 ---
 
 ## Acquisitions

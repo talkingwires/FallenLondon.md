@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d2e2c134d387e97e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/Sell your Skeleton to the Sculptress.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "5b921dc58b317d63",
             "type": "leaf",
             "state": {
@@ -49,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storylets/To return home, changed.md",
+                "file": "Stories/Of Stripes, and Coils.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "badead309cd51de9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview Help.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nevercold Brass Silver",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storylets/To return home, changed.md",
+                "file": "Dataview Help.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storylets/To return home, changed.md",
+                "file": "Dataview Help.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storylets/To return home, changed.md"
+                "file": "Dataview Help.md"
               }
             }
           },
@@ -184,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Storylets/To return home, changed.md"
+                "file": "Dataview Help.md"
               }
             }
           }
@@ -208,43 +232,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82ffa181b28618bf",
+  "active": "badead309cd51de9",
   "lastOpenFiles": [
-    "Storylets/Thresholds and passages.md",
+    "Stories/Of Stripes, and Coils.md",
+    "Structure/Items.md",
+    "Items/Correspondence Plaque.md",
+    "Items/Parabolan Parable.md",
+    "Items/Cryptic Clue.md",
+    "Items/Amber-Crusted Fin.md",
+    "Items/Nevercold Brass Silver.md",
+    "Items/Nevercold Brass Sliver.md",
+    "Dataview Help.md",
+    "Home.md",
+    "Storylets/A refusal of the call.md",
+    "Stories/Pursuing the Totentanz.md",
+    "Stories/The Efficient Commissioner's Tale.md",
     "Storylets/To return home, changed.md",
+    "Storylets/Thresholds and passages.md",
+    "Storylets/Sell your Skeleton to the Sculptress.md",
+    "Location/London/BoneMarket/Bone Market.md",
+    "Slurped Pages/Great Game Grinding (Guide).md",
+    "Storylets/Help her out.md",
+    "Factions/Summerset/Connected.md",
+    "Factions/Summerset",
+    "Gain/Summerset/Connected.md",
+    "Gain/Summerset",
+    "Gain",
+    "Factions/Benthic/Connected.md",
+    "Factions/Benthic",
+    "Storylets/Purchase some assistance with Casing....md",
+    "Storylets/Confide in the Chandleress.md",
     "Storylets/The Plan of Action.md",
     "Storylets/'Simple' is a relative term.md",
-    "Storylets/Entering the Sixth Coil.md",
-    "Storylets/Written by the victors.md",
-    "Storylets/Rounding Out the Team.md",
-    "Storylets/Last, but not least.md",
-    "Storylets/A refusal of the call.md",
-    "Storylets/A course set.md",
-    "Stories/Of Stripes, and Coils.md",
-    "Stories/Pursuing the Totentanz.md",
-    "Storylets/Breaking a Gaol.md",
-    "Storylets/A long arrangement.md",
-    "Storylets/A Reckoning Postponed.md",
-    "Storylets/A Nose for a Story.md",
-    "Stories/Arcana.md",
-    "Stories/Involved in a Railway Venture.md",
-    "Location/London/BoneMarket/Bone Market.md",
-    "templates/Item.md",
-    "Location/London/BoneMarket/Working.md",
-    "Items/Thorned Ribcage.md",
-    "Items/Correspondence Plaque.md",
-    "Factions/Criminals/Favours.md",
-    "Structure/Guides/The Airs of London.md",
     "Factions/Criminals",
-    "Items/Extraordinary Implication.md",
     "Factions/Church",
     "Factions/GreatGame",
     "Factions/Bohemians",
     "desktop.ini",
-    "Faction/Favours",
-    "Faction",
-    "Favours",
-    "Factions/Favours",
-    "Factions/Connected"
+    "Faction/Favours"
   ]
 }

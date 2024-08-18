@@ -1,8 +1,9 @@
 ---
 tags:
   - Location/London/Lodgings
-  - Gain/Casing
 url: https://fallenlondon.wiki/wiki/Purchase_some_assistance_with_Casing...
+gain:
+  - "[[Casing...]]"
 ---
 - Location: [[Lodgings]] / Alliance with the Big Rat
 - Unlocked: [[ Talkative Rattus Faber| Talkative Rattus Faber x 3]]

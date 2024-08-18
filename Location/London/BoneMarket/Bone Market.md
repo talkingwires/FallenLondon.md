@@ -18,7 +18,7 @@ GROUP BY bone.type as Type
 
 ```dataview
 TABLE rows.file.link as Name, rows.bonebuyer.likes as Likes, rows.bonebuyer.dislikes as Dislikes, rows.bonebuyer.primary_reward as Primary, rows.bonebuyer.secondary_reward as Secondary, rows.bonebuyer.primary_formula as PF, rows.bonebuyer.secondary_formula as SF
-FROM #Vendor
+FROM #Vendor/BoneMarket 
 ```
 
 
@@ -29,12 +29,12 @@ FROM #Vendor
 
 | Buyer                                                                                                 | Primary Reward               | Primary Scaling  | Secondary Reward              | Secondary Scaling                                       | Requires                             | Notes    |
 | ----------------------------------------------------------------------------------------------------- | ---------------------------- | -------------------------- | ----------------------------- | --------------------------------------------- | ------------------------------------ | --- |
-| [[Sell a complete skeleton to the Bone Hoarder\|Palaeontologist with Hoarding Propensities]]          | [[Bone Fragments]]           | Value\*5+1 | [[Unearthly Fossil\|Unearthly Fossils]]          | Always 2                                      |                                  |     |
-| [[Sell your Skeleton to a Naive Collector\|A Naive Collector]]                                        | [[Thirsty Bombazine Scrap]]  | Value/250                        |                               |                                               | [[Suspicion]] < 4                    |     |
-| [[Sell your Skeleton to the Sculptress\|A Familiar Bohemian Sculptress]]                              | [[Preserved Surface Blooms]] | Value/250+4                 | [[Rumour of the Upper River]] | Support for<br>Counter-<br>church<br>Theology | [[Respectable]] 0<br>[[Antiquity]] 0 | No [[Antiquity]]    |
-| [[Sell your skeleton to a Pedagogically Inclined Grandmother\|A Pedagogically Inclined Grandmother]]  | [[Incisive Observation\|Incisive Observations]]                             |                            |                               |                                               | [[Dreaded]] 0<br>[[Menace]] 0        |     |
-| [[Sell your Skeleton to the Theologian of the Old School\|Theologian of the Old School]]     | [[Crate of Incorruptible Biscuits]]  |  Value/250+4       |                               |                                               |                                      |     |
-| An Enthusiast of<br>the Ancient World                                                        |                              |                            |                               |                                               |                                      |     |
+| [[Sell a complete skeleton to the Bone Hoarder\|Palaeontologist with Hoarding Propensities]]          | [[Bone Fragments]]           | Value\*5+1 | [[Unearthly Fossil\|Unearthly Fossils]] | Always 2                                      |                                  |     |
+| [[Sell your Skeleton to a Naive Collector\|A Naive Collector]]                                        | [[Thirsty Bombazine Scrap]]  | Value/250         |                                  |                                               | [[Suspicion]] < 4                    |     |
+| [[Sell your Skeleton to the Sculptress\|A Familiar Bohemian Sculptress]]                              | [[Preserved Surface Blooms]] | Value/250+4       | [[Rumour of the Upper River]]    | Support for Counter-church Theology | [[Respectable]] 0<br>[[Antiquity]] 0 | No [[Antiquity]]    |
+| [[Sell your skeleton to a Pedagogically Inclined Grandmother\|A Pedagogically Inclined Grandmother]]  | [[Incisive Observation\|Incisive Observations]]  | Value/50+20                                 |                               |                                               | [[Dreaded]] 0<br>[[Menace]] 0 | No [[Menace]] |
+| [[Sell your Skeleton to the Theologian of the Old School\|Theologian of the Old School]]     | [[Crate of Incorruptible Biscuits]]  |  Value/250+4       |                                  |                                               |                                      | No [[Amalgamy]] |
+| An Enthusiast of the Ancient World                                                        |                              |                            |                               |                                               |                                      |     |
 |                                                                                              |                              |                            |                               |                                               |                                      |     |
 |                                                                                              |                              |                            |                               |                                               |                                      |     |
 |                                                                                              |                              |                            |                               |                                               |                                      |     |
@@ -54,7 +54,7 @@ FROM #Vendor
 
 |Animal|Torso|Skulls|Arms|Legs|Wings|Fins|Tails|Tentacles|Mania Bonus|
 | ------ | ----- | ------ | ---- | ---- | ----- | ---- | ----- | --------- | ----------- |
-|Chimera|Any|Any|Any|Any|Any|Any|Any|Any|N/A|
+|Chimera|Any|Any|Any|Any|Any|Any|Any|Any||
 |Humanoid|[[Headless Skeleton]] <br> [[Human Ribcage]] <br> [[Thorned Ribcage]]|1|2|2|0|0|0|Any||
 |Ape|[[Headless Skeleton]] <br> [[Human Ribcage]] <br> [[Thorned Ribcage]]|1|4|0|0|0|0|Any||
 |Monkey|[[Headless Skeleton]] <br> [[Human Ribcage]] <br> [[Thorned Ribcage]]|1|4|0|0|0|1|Any||

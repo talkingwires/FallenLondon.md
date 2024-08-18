@@ -1,10 +1,11 @@
 ---
 tags:
   - Location/London/University
-  - Gain/Connected/Benthic
-  - Gain/Connected/Summerset
-  - Gain/Item/CrypticClue
 redirect-from: "[[A colleague with a problem]]"
+gain:
+  - "[[Factions/Benthic/Connected]]"
+  - "[[Factions/Summerset/Connected]]"
+  - "[[Cryptic Clue]]"
 ---
 
 

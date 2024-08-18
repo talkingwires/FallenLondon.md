@@ -15,7 +15,7 @@ aliases:
 - Participating in the The Maze-Garden (16 actions). Each cycle will cost 1 x Prisoner's Mask
 	- This averages 9.33 Correspondence Plaques /action, but is variable per trip.
 	- Upconverting plaques from this grind results in ~1.57 [[Aeolian Scream|Aeolian Screams]] per action
-- Buying [[Maniac's Prayer|Maniac's Prayers]] at the [Rat Market](https://fallenlondon.wiki/wiki/The_Rat_Market_(Guide)) and upconverting. Various breakpoints are shown below.
+- Buying [[Maniac's Prayer|Maniac's Prayers]] at the [Rat Market](https://fallenlondon.wiki/wiki/The_Rat_Market_(Guide)) and upconverting. 
 	- 29x /action will give 5.76 Correspondence Plaques /action
 	- 36x /action will give 7.04 Correspondence Plaques /action
 	- 49x /action will give 9.37 Correspondence Plaques /action

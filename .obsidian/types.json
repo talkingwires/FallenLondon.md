@@ -11,6 +11,7 @@
     "sell-KhanCoinage": "number",
     "buy-HinterlandScript": "number",
     "published": "date",
-    "story": "multitext"
+    "story": "multitext",
+    "bonebuyer": "multitext"
   }
 }

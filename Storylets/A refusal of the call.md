@@ -5,7 +5,7 @@ tags:
 image: https://images.fallenlondon.com/icons/mercyhand2.png
 qualities:
   - name: "[[Of Stripes, and Coils]]"
-    level: 3560
+    level: 360
     type: Stories
     description: Explore the Sixth Coil, and plan for a rescue
     change: You count one, two three... many possible points of failure.
