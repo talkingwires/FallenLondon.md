@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storylets/The Heart Inescapable.md",
+                "file": "The Keeper and the Coil.md",
                 "mode": "source",
                 "source": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storylets/The Heart Inescapable.md",
+                "file": "The Keeper and the Coil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storylets/The Heart Inescapable.md",
+                "file": "The Keeper and the Coil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storylets/The Heart Inescapable.md"
+                "file": "The Keeper and the Coil.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Storylets/The Heart Inescapable.md"
+                "file": "The Keeper and the Coil.md"
               }
             }
           }
@@ -246,9 +246,11 @@
   },
   "active": "a844ec3b533768cf",
   "lastOpenFiles": [
+    "Set up the Xanthous Arrays.md",
+    "The Keeper and the Coil.md",
     "Storylets/Thresholds and passages.md",
-    "Stories/Of Stripes, and Coils.md",
     "Storylets/The Heart Inescapable.md",
+    "Stories/Of Stripes, and Coils.md",
     "Location/London/BoneMarket/Bone Market.md",
     "Storylets/Sell your Skeleton to the Sculptress.md",
     "Dataview Help.md",
@@ -274,8 +276,6 @@
     "Gain",
     "Factions/Benthic/Connected.md",
     "Factions/Benthic",
-    "Storylets/Purchase some assistance with Casing....md",
-    "Storylets/Confide in the Chandleress.md",
     "Factions/Criminals",
     "Factions/Church",
     "Factions/GreatGame",

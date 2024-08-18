@@ -19,5 +19,5 @@ The double doors are vast, towering out of the Coil like a transplant from an an
 They are also wide, wide open. The Keeper's voice sounds within; you are not too late. These doors will be your last redoubt: sealed behind you, once all the Tributes are out.
 
 
-> [!onwards] Set up the Xanthous Arrays
+> [!onwards] [[Hope, and engineering|Set up the Xanthous Arrays]]
 > Unpack the delicate machinery from your back. Place your thumb on the button. When the time comes, the lights will cover your retreat.
