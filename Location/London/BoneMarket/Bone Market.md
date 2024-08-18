@@ -17,10 +17,15 @@ GROUP BY bone.type as Type
 # Buyers
 
 ```dataview
-TABLE rows.file.link as Name, rows.bonebuyer.likes as Likes, rows.bonebuyer.dislikes as Dislikes, rows.bonebuyer.primary_reward as Primary, rows.bonebuyer.secondary_reward as Secondary, rows.bonebuyer.primary_formula as PF, rows.bonebuyer.secondary_formula as SF
+TABLE file.aliases as Name, bonebuyer.likes as "Likes", bonebuyer.dislikes as "Dislikes", bonebuyer.primary_reward as "Primary Reward", bonebuyer.secondary_reward as "Secondary Reward", bonebuyer.primary_formula as "PF", bonebuyer.secondary_formula as "SF"
 FROM #Vendor/BoneMarket 
 ```
 
+```dataview
+TABLE qualities.level as "Level", qualities.name as "Quality", qualities.description as "Description" , qualities.change as "Change Text" 
+WHERE contains(file.frontmatter.qualities.name, this.file.name) or file.name = this.file.name 
+SORT qualities.level ASC
+```
 
 
 

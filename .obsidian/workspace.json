@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Location/London/BoneMarket/Bone Market.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Storylets/Sell your Skeleton to the Sculptress.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataview Help.md",
-                "mode": "preview",
+                "file": "Storylets/Thresholds and passages.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a844ec3b533768cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/The Heart Inescapable.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview Help.md",
+                "file": "Storylets/The Heart Inescapable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataview Help.md",
+                "file": "Storylets/The Heart Inescapable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview Help.md"
+                "file": "Storylets/The Heart Inescapable.md"
               }
             }
           },
@@ -208,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dataview Help.md"
+                "file": "Storylets/The Heart Inescapable.md"
               }
             }
           }
@@ -232,9 +244,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "badead309cd51de9",
+  "active": "a844ec3b533768cf",
   "lastOpenFiles": [
+    "Storylets/Thresholds and passages.md",
     "Stories/Of Stripes, and Coils.md",
+    "Storylets/The Heart Inescapable.md",
+    "Location/London/BoneMarket/Bone Market.md",
+    "Storylets/Sell your Skeleton to the Sculptress.md",
+    "Dataview Help.md",
+    "Home.md",
+    "templates/Storylet.md",
     "Structure/Items.md",
     "Items/Correspondence Plaque.md",
     "Items/Parabolan Parable.md",
@@ -242,15 +261,10 @@
     "Items/Amber-Crusted Fin.md",
     "Items/Nevercold Brass Silver.md",
     "Items/Nevercold Brass Sliver.md",
-    "Dataview Help.md",
-    "Home.md",
     "Storylets/A refusal of the call.md",
     "Stories/Pursuing the Totentanz.md",
     "Stories/The Efficient Commissioner's Tale.md",
     "Storylets/To return home, changed.md",
-    "Storylets/Thresholds and passages.md",
-    "Storylets/Sell your Skeleton to the Sculptress.md",
-    "Location/London/BoneMarket/Bone Market.md",
     "Slurped Pages/Great Game Grinding (Guide).md",
     "Storylets/Help her out.md",
     "Factions/Summerset/Connected.md",
@@ -262,8 +276,6 @@
     "Factions/Benthic",
     "Storylets/Purchase some assistance with Casing....md",
     "Storylets/Confide in the Chandleress.md",
-    "Storylets/The Plan of Action.md",
-    "Storylets/'Simple' is a relative term.md",
     "Factions/Criminals",
     "Factions/Church",
     "Factions/GreatGame",
