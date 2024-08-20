@@ -10,7 +10,7 @@ qualities:
     level: 60
     type: Stories
     icon: https://images.fallenlondon.com/icons/tarot.png
-    description: Speak with the Thirsty Croupier
+    description: Read cards with the Thirsty Croupier at Ladybones Road
   - name: "[[A Tarot Reading]]"
     level: 0
     type: Stories
@@ -39,3 +39,13 @@ The Clerk tosses a few coins onto the bar. He also drops a key when he rises to 
 # Breaking and entering
 
 The Khanate might glow with electric light. The Loyalty Service might post guards to patrol every bridge and canal. But if there's a shadow, you'll find it and hide; if there's a locked door, you'll slip through and lock it again behind yourself. White-and-Gold soldiers might rattle the knob, but they'll always go away, assured that everything is secure.
+
+---
+
+# Reptilian stepping stones
+
+Crocodiles aren't native to the Salt Steppes. They're not native to London either, but after a certain incident at the Museum of Prelapsarian History unleashed a few into the Stolen River, they continued to proliferate. The Stolen River, of course, flows into the Unterzee; now the reptiles have spread across the Southern Archipelago.
+
+The crocodiles in the Moon Canal aren't just any crocodiles. _These_ crocodiles, tamed by the Taimen to serve as aquatic guardians for the Khanate, are especially gargantuan – which makes them easier to land on when you leap.
+
+One! Two! You jump from snout to snout. Three! Four! They snap, but you've already hopped across.

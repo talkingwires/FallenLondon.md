@@ -25,5 +25,5 @@ The Efficient Commissioner lists the three things needed to meet the Creditor's 
 > [!choice] [[Offer to give whatever is needed]]
 > Better that than to let the Creditor wreak some unspecified vengeance.
 
-> [!choice] [[Interrupted|Pointedly indicate that you're not providing the payment]]
+> [!choice] [[Storylets/Interrupted|Pointedly indicate that you're not providing the payment]]
 > Perhaps the sum will not be as vast as she once feared, but the Creditor will still want a substantial payment. She is mistaken if she wants the GHR to pay it.

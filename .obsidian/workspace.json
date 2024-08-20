@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storylets/Scepticism.md",
-                "mode": "source",
+                "file": "Stories/Arcana.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -68,31 +68,139 @@
             }
           },
           {
-            "id": "7b3079a1e7eed044",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Knight of Swords.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "b918ec0e1858ce92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Storylets/Two of Staves.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8d7ebd069aa580fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/XV The Devil.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "44ccf95da7956b31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/Seven of Swords.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "71fba3decf3d85d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/Three of Cups.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "da32cbddfed7d594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/Seven of Cups.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4f955ae94e285dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/XIX The Sun.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e741b234d7ba62dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/Ace of Staves.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e92293fcf006eace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/Ace of Cups.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "311f25642c24b8c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/Interrupted 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d014d661afd8e426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/Page of Cups (2).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "31afaa8eeba5c929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/Ace of Staves.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -158,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storylets/Two of Staves.md",
+                "file": "Storylets/Ace of Staves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storylets/Two of Staves.md",
+                "file": "Storylets/Ace of Staves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storylets/Two of Staves.md"
+                "file": "Storylets/Ace of Staves.md"
               }
             }
           },
@@ -220,7 +328,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Storylets/Two of Staves.md"
+                "file": "Storylets/Ace of Staves.md"
               }
             }
           }
@@ -246,13 +354,23 @@
   },
   "active": "82ffa181b28618bf",
   "lastOpenFiles": [
-    "Storylets/Seven of Swords.md",
-    "Storylets/Knight of Swords.md",
-    "Storylets/Two of Staves.md",
-    "Storylets/Eight of Cups.md",
-    "Storylets/Ace of Coins.md",
-    "Storylets/Scepticism.md",
+    "Storylets/Page of Cups (2).md",
+    "Storylets/XXII The Interloper 1.md",
+    "Storylets/Interrupted 1.md",
+    "Storylets/Page of Cups.md",
+    "Storylets/Ace of Cups.md",
     "Stories/Arcana.md",
+    "Storylets/XIX The Sun.md",
+    "Storylets/Ace of Staves.md",
+    "Storylets/Seven of Cups.md",
+    "Storylets/Three of Cups.md",
+    "Storylets/Two of Staves.md",
+    "Storylets/Ace of Coins.md",
+    "Storylets/Eight of Cups.md",
+    "Storylets/Seven of Swords.md",
+    "Storylets/XV The Devil.md",
+    "Storylets/Knight of Swords.md",
+    "Storylets/Scepticism.md",
     "Stories/Of Stripes, and Coils.md",
     "Home.md",
     "Storylets/Incomplete hold.md",
@@ -262,16 +380,6 @@
     "Storylets/The Keeper and the Coil (2).md",
     "Storylets/Thresholds and passages.md",
     "Storylets/An oath between distant bodies.md",
-    "Storylets/The Keeper and the Coil.md",
-    "Storylets/Set up the Xanthous Arrays.md",
-    "Storylets/The Heart Inescapable.md",
-    "Location/London/BoneMarket/Bone Market.md",
-    "Storylets/Sell your Skeleton to the Sculptress.md",
-    "Dataview Help.md",
-    "templates/Storylet.md",
-    "Structure/Items.md",
-    "Items/Correspondence Plaque.md",
-    "Items/Parabolan Parable.md",
     "Factions/Summerset",
     "Gain/Summerset",
     "Gain",

@@ -7,7 +7,7 @@ tags:
 image: https://images.fallenlondon.com/icons/stamp.png
 qualities:
   - name: "[[Arcana]]"
-    level: 60
+    level: 50
     type: Stories
     icon: https://images.fallenlondon.com/icons/tarot.png
     description: Speak with the Thirsty Croupier

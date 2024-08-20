@@ -10,7 +10,7 @@ qualities:
     level: 60
     type: Stories
     icon: https://images.fallenlondon.com/icons/tarot.png
-    description: Speak with the Thirsty Croupier
+    description: Read cards with the Thirsty Croupier at Ladybones Road
   - name: "[[A Tarot Reading]]"
     level: 0
     type: Stories

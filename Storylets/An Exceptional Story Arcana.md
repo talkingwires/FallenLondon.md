@@ -17,7 +17,7 @@ story:
 Visitors often leave calling cards at your lodgings. Rarely, however, are such cards abstracted from an actual deck. Today you find one of the major arcana tucked between _The Hopping Post_ and an advertisement for Trompowsky et Fils. It's rather good card-stock: thick, creamy, with brilliantly gilt edges. The pigments mesmerise.
 
 
-> [!choice] [[XXII The Interloper|Inspect the tarot card]]
+> [!choice] [[Storylets/XXII The Interloper|Inspect the tarot card]]
 More striking than anything else, the central figure resembles _yourself_.
 
 
