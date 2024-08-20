@@ -9,10 +9,6 @@ qualities:
     level: 100
     type: Stories
     icon: https://images.fallenlondon.com/icons/estivaltigersmall.png
-  - name: "[[Labyrinth's Exodus]]"
-    level: 7
-    type: Stories
-    icon: https://images.fallenlondon.com/icons/cagedwomansmall.png
 story:
   - "[[Of Stripes, and Coils]]"
 ---
