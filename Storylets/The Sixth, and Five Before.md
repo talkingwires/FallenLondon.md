@@ -6,7 +6,7 @@ tags:
   - Location/London/LabyrinthOfTigers
 image: https://images.fallenlondon.com/icons/labyrinth.png
 qualities:
-  - name: Of Stripes, and Coils
+  - name: "[[Of Stripes, and Coils]]"
     level: 10
     type: Stories
     discrete: true

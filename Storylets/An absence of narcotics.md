@@ -6,7 +6,7 @@ tags:
   - Character/TigerKeeper
 image: https://images.fallenlondon.com/icons/papers3.png
 qualities: [
-  {name: "Of Stripes, and Coils", level: 2, type: "Stories", discrete: true, unlock: "", icon: "https://images.fallenlondon.com/icons/estivaltigersmall.png", change: "Tigers, beast-tamer, and Tiger Keeper. Not your usual picnic.", description: "A commotion in Tyrant's Gardens"}
+  {name: "[[Of Stripes, and Coils]]", level: 2, type: "Stories", discrete: true, unlock: "", icon: "https://images.fallenlondon.com/icons/estivaltigersmall.png", change: "Tigers, beast-tamer, and Tiger Keeper. Not your usual picnic.", description: "A commotion in Tyrant's Gardens"}
 ]
 story: "Of Stripes, and Coils"
 ---

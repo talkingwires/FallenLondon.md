@@ -4,83 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae77bb55d2f4dbb3",
+        "id": "88ef55fdeef85303",
         "type": "tabs",
         "children": [
           {
-            "id": "d48d197a6a4cc362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/Arcana.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3be5cd09f3d4c585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Seven of Swords.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "193eb8624742133e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Ace of Coins.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8457d18e513556c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Two of Staves.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "26231347602a9568",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Eight of Cups.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b918ec0e1858ce92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Two of Staves.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8d7ebd069aa580fc",
+            "id": "e8b951dfa6ca09c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,247 +20,43 @@
             }
           },
           {
-            "id": "44ccf95da7956b31",
+            "id": "dbf82e5b7e2b76bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storylets/Seven of Swords.md",
+                "file": "Storylets/Ten of Swords (2).md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "71fba3decf3d85d9",
+            "id": "0ebb860450795926",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storylets/Three of Cups.md",
+                "file": "Storylets/Ten of Coins.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "da32cbddfed7d594",
+            "id": "a22ae30a3fd52da1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storylets/Seven of Cups.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4f955ae94e285dda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/XIX The Sun.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e741b234d7ba62dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Ace of Staves.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e92293fcf006eace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Ace of Cups.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "311f25642c24b8c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Interrupted 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d014d661afd8e426",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Page of Cups (2).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "31afaa8eeba5c929",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/The Keeper and the Coil (3).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dd4b7984fdbb9d64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/The Keeper and the Coil (4).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ff69459588e05241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/The Shock of Noon After an Age of Night The Shock of Noon After an Age of Night.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d0691faf095f0d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Fearful Symmetry.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "035edf85d99495f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Guttering Lights.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9054d26fc6e1e897",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Locking the Door Behind You.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1d7cd12036d53c13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Guttering Lights.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c6d6ff888269c5d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Last Glimpses.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7a6fcda654bdf6c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Champions in Moonish Light.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "660ace3e5109bdcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Champions in Moonish Light (2).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7b8fb261d129d2e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Honoured by the Banded Prince.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1568736631a26e17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Packed to the Rafters.md",
+                "file": "Storylets/Ten of Coins.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -398,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storylets/Packed to the Rafters.md",
+                "file": "Storylets/Ten of Coins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storylets/Packed to the Rafters.md",
+                "file": "Storylets/Ten of Coins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -450,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storylets/Packed to the Rafters.md"
+                "file": "Storylets/Ten of Coins.md"
               }
             }
           },
@@ -460,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Storylets/Packed to the Rafters.md"
+                "file": "Storylets/Ten of Coins.md"
               }
             }
           }
@@ -486,32 +210,32 @@
   },
   "active": "82ffa181b28618bf",
   "lastOpenFiles": [
-    "Storylets/Packed to the Rafters.md",
-    "Storylets/Honoured by the Banded Prince.md",
-    "Storylets/Champions in Moonish Light (2).md",
-    "Storylets/Champions in Moonish Light.md",
-    "Storylets/Last Glimpses.md",
-    "Storylets/Guttering Lights.md",
-    "Storylets/The Shock of Noon After an Age of Night The Shock of Noon After an Age of Night.md",
-    "Storylets/Locking the Door Behind You.md",
-    "Storylets/Fearful Symmetry.md",
-    "Storylets/Ace of Cups.md",
-    "Storylets/The Keeper and the Coil (4).md",
-    "Storylets/The Keeper and the Coil (3).md",
-    "Storylets/Ace of Staves.md",
-    "Storylets/Page of Cups (2).md",
-    "Storylets/XXII The Interloper 1.md",
-    "Storylets/Interrupted 1.md",
-    "Storylets/Page of Cups.md",
-    "Stories/Arcana.md",
-    "Storylets/XIX The Sun.md",
-    "Storylets/Seven of Cups.md",
-    "Storylets/Three of Cups.md",
-    "Storylets/Two of Staves.md",
-    "Storylets/Ace of Coins.md",
-    "Storylets/Eight of Cups.md",
-    "Storylets/Seven of Swords.md",
+    "Storylets/Ten of Swords.md",
+    "Storylets/XXX The Udder.md",
+    "Storylets/Ten of Coins.md",
+    "Storylets/Ten of Swords (2).md",
     "Storylets/XV The Devil.md",
+    "Home.md",
+    "Storylets/Ten of Staves.md",
+    "Storylets/Page of Cups (2).md",
+    "Storylets/Interrupted 1.md",
+    "Storylets/Ace of Coins.md",
+    "Stories/Arcana.md",
+    "Storylets/Seven of Swords.md",
+    "Storylets/Ace of Cups.md",
+    "Storylets/The Keeper and the Coil (3).md",
+    "Storylets/The Keeper and the Coil (4).md",
+    "Storylets/The Shock of Noon After an Age of Night The Shock of Noon After an Age of Night.md",
+    "Storylets/Fearful Symmetry.md",
+    "Storylets/Guttering Lights.md",
+    "Storylets/Locking the Door Behind You.md",
+    "Storylets/Last Glimpses.md",
+    "Storylets/Champions in Moonish Light.md",
+    "Storylets/Champions in Moonish Light (2).md",
+    "Storylets/Honoured by the Banded Prince.md",
+    "Stories/Of Stripes, and Coils.md",
+    "Storylets/To return home, changed.md",
+    "Storylets/Wildfire.md",
     "Factions/Summerset",
     "Gain/Summerset",
     "Gain",

@@ -7,7 +7,7 @@ tags:
   - Character/MrInch
 image: https://images.fallenlondon.com/icons/crowd2.png
 qualities:
-  - name: Of Stripes, and Coils
+  - name: "[[Of Stripes, and Coils]]"
     level: 3
     type: Stories
     discrete: true

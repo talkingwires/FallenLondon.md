@@ -7,7 +7,7 @@ tags:
   - Character/MrInch
 image: https://images.fallenlondon.com/icons/papers3.png
 qualities: [
-  {name: "Of Stripes, and Coils", level: 2, type: "Stories", discrete: true, unlock: "", icon: "https://images.fallenlondon.com/icons/estivaltigersmall.png", description: "A commotion in Tyrant's Gardens"}
+  {name: "[[Of Stripes, and Coils]]", level: 2, type: "Stories", discrete: true, unlock: "", icon: "https://images.fallenlondon.com/icons/estivaltigersmall.png", description: "A commotion in Tyrant's Gardens"}
 ]
 story: "Of Stripes, and Coils"
 ---

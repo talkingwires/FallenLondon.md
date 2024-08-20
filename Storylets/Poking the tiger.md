@@ -6,7 +6,7 @@ tags:
   - Character/TigerKeeper
 image: https://images.fallenlondon.com/icons/crowd2.png
 qualities: [
-  {name: "Of Stripes, and Coils", level: 3, type: "Stories", discrete: true, unlock: "", icon: "https://images.fallenlondon.com/icons/estivaltigersmall.png", description: "A commotion in Tyrant's Gardens",  change: "What do they all want? Quickly now, before someone gets eaten."}
+  {name: "[[Of Stripes, and Coils]]", level: 3, type: "Stories", discrete: true, unlock: "", icon: "https://images.fallenlondon.com/icons/estivaltigersmall.png", description: "A commotion in Tyrant's Gardens",  change: "What do they all want? Quickly now, before someone gets eaten."}
 ]
 story: "Of Stripes, and Coils"
 ---
