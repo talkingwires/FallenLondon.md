@@ -28,4 +28,4 @@ The Thirsty Croupier continues to shuffle.
 
 Beside the Ace of Staves, he lays another card.
 
-> [!onward] [[XIV Temperance|Onwards]]
+> [!onward] [[Storylets/XIV Temperance|Onwards]]
