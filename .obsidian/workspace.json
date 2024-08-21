@@ -54,9 +54,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8aa92413c880054b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storylets/The matter of change.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storylets/Ten of Coins.md",
+                "file": "Storylets/The matter of change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storylets/Ten of Coins.md",
+                "file": "Storylets/The matter of change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storylets/Ten of Coins.md"
+                "file": "Storylets/The matter of change.md"
               }
             }
           },
@@ -184,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Storylets/Ten of Coins.md"
+                "file": "Storylets/The matter of change.md"
               }
             }
           }
@@ -210,9 +222,10 @@
   },
   "active": "82ffa181b28618bf",
   "lastOpenFiles": [
+    "Storylets/Ten of Coins.md",
+    "Storylets/The matter of change.md",
     "Storylets/Ten of Swords.md",
     "Storylets/XXX The Udder.md",
-    "Storylets/Ten of Coins.md",
     "Storylets/Ten of Swords (2).md",
     "Storylets/XV The Devil.md",
     "Home.md",
@@ -235,7 +248,6 @@
     "Storylets/Honoured by the Banded Prince.md",
     "Stories/Of Stripes, and Coils.md",
     "Storylets/To return home, changed.md",
-    "Storylets/Wildfire.md",
     "Factions/Summerset",
     "Gain/Summerset",
     "Gain",
