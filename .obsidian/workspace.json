@@ -133,8 +133,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storylets/Five of Staves.md",
-                "mode": "source",
+                "file": "Location/London/BoneMarket/Bone Market.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storylets/Five of Staves.md",
+                "file": "Location/London/BoneMarket/Bone Market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storylets/Five of Staves.md",
+                "file": "Location/London/BoneMarket/Bone Market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storylets/Five of Staves.md"
+                "file": "Location/London/BoneMarket/Bone Market.md"
               }
             }
           },
@@ -268,7 +268,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Storylets/Five of Staves.md"
+                "file": "Location/London/BoneMarket/Bone Market.md"
               }
             }
           }
@@ -292,18 +292,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82ffa181b28618bf",
+  "active": "a960734c280d8a43",
   "lastOpenFiles": [
+    "Items/Skeleton with Seven Necks.md",
+    "Location/London/BoneMarket/Bone Market.md",
+    "Location/London/BoneMarket/Antique Birds.md",
+    "Location/London/BoneMarket/Bird of Brass and Bone.md",
+    "Home.md",
+    "Storylets/Five of Staves.md",
     "Storylets/XIV Temperance 1.md",
     "Storylets/Epilogue Arcana.md",
     "Storylets/The Fall of the Cards.md",
     "Storylets/XIII Death.md",
-    "Storylets/Five of Staves.md",
     "Storylets/Eight of Staves.md",
     "Storylets/Seven of Staves.md",
     "Storylets/Ten of Coins.md",
     "Stories/Arcana.md",
-    "Home.md",
     "Storylets/XV The Devil.md",
     "Storylets/The matter of change.md",
     "Storylets/Ten of Swords.md",
@@ -316,10 +320,6 @@
     "Storylets/Seven of Swords.md",
     "Storylets/Ace of Cups.md",
     "Storylets/The Keeper and the Coil (3).md",
-    "Storylets/The Keeper and the Coil (4).md",
-    "Storylets/The Shock of Noon After an Age of Night The Shock of Noon After an Age of Night.md",
-    "Storylets/Fearful Symmetry.md",
-    "Storylets/Guttering Lights.md",
     "Factions/Summerset",
     "Gain/Summerset",
     "Gain",
