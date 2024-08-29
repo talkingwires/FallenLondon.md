@@ -4,143 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "88ef55fdeef85303",
+        "id": "265e80c0bc30d36a",
         "type": "tabs",
         "children": [
           {
-            "id": "e8b951dfa6ca09c7",
+            "id": "3557cf6cc42c01be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/Arcana.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dbf82e5b7e2b76bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Ten of Swords (2).md",
+                "file": "Storylets/The Mandolinist.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "0ebb860450795926",
+            "id": "95e8599bf426bb79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storylets/Ten of Coins.md",
+                "file": "Storylets/Nap Time.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a22ae30a3fd52da1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Ten of Coins.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "830b1babc3c34f08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Seven of Staves.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eaa01dd4af45fea1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Eight of Staves.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3c558dc31a243653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/Five of Staves.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1be2d94d7b4ec95f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/XIII Death.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6b11cc0138398427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/XIV Temperance 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3c441dc3b8a816b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storylets/The Fall of the Cards.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a960734c280d8a43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Location/London/BoneMarket/Bone Market.md",
-                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Location/London/BoneMarket/Bone Market.md",
+                "file": "Storylets/Nap Time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Location/London/BoneMarket/Bone Market.md",
+                "file": "Storylets/Nap Time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Location/London/BoneMarket/Bone Market.md"
+                "file": "Storylets/Nap Time.md"
               }
             }
           },
@@ -268,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Location/London/BoneMarket/Bone Market.md"
+                "file": "Storylets/Nap Time.md"
               }
             }
           }
@@ -292,13 +184,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a960734c280d8a43",
+  "active": "82ffa181b28618bf",
   "lastOpenFiles": [
-    "Items/Skeleton with Seven Necks.md",
+    "Cards/Meeting a Buyer.md",
+    "Storylets/The Mandolinist.md",
+    "Home.md",
+    "Storylets/The Chorus of Hell.md",
+    "Storylets/The Mandolinist (2).md",
+    "Storylets/The Empty Amphitheatre.md",
+    "Storylets/XXII The Interloper 1.md",
+    "Storylets/XXX The Udder.md",
+    "Storylets/Nap Time.md",
     "Location/London/BoneMarket/Bone Market.md",
+    "Items/Skeleton with Seven Necks.md",
     "Location/London/BoneMarket/Antique Birds.md",
     "Location/London/BoneMarket/Bird of Brass and Bone.md",
-    "Home.md",
     "Storylets/Five of Staves.md",
     "Storylets/XIV Temperance 1.md",
     "Storylets/Epilogue Arcana.md",
@@ -311,15 +211,7 @@
     "Storylets/XV The Devil.md",
     "Storylets/The matter of change.md",
     "Storylets/Ten of Swords.md",
-    "Storylets/XXX The Udder.md",
     "Storylets/Ten of Swords (2).md",
-    "Storylets/Ten of Staves.md",
-    "Storylets/Page of Cups (2).md",
-    "Storylets/Interrupted 1.md",
-    "Storylets/Ace of Coins.md",
-    "Storylets/Seven of Swords.md",
-    "Storylets/Ace of Cups.md",
-    "Storylets/The Keeper and the Coil (3).md",
     "Factions/Summerset",
     "Gain/Summerset",
     "Gain",
